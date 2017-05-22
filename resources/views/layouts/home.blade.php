@@ -12,7 +12,7 @@
 				<div class="panel-heading">writer title</div>
 
 				<div class="panel-body">
-					writer
+					<textarea class="form-control" rows="4"></textarea>
 				</div>
 			</div>
 		</div>
